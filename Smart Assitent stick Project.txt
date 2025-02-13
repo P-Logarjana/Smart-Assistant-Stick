@@ -1,0 +1,14 @@
+Group Project
+
+
+------------SMART-ASSISTENT-STICK------------------
+
+***According to global research, around 40 million people worldwide are completely blind,
+while another 250 million suffer from some form of visual impairment. Many of them rely on traditional white canes, 
+which have limitations, particularly in unfamiliar environments.
+
+***This project aims to enhance mobility and independence for visually impaired individuals by developing a Smart Assistant Stick 
+using Arduino Uno, ultrasonic sensors, and a buzzer for real-time obstacle detection. The stick provides immediate audible and vibration feedback to 
+assist users in avoiding obstacles and holes.
+
+Project link: https://www.tinkercad.com/things/2xMnEpqgBNp-incredible-jaagub-gogo/editel?sharecode=TsgTXOQjj8GMInqcTDjilGSRA9MYijnJhBont9XRbWY
